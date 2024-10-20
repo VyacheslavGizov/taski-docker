@@ -11,7 +11,6 @@ ALLOWED_HOSTS = [
     '51.250.18.68', 'localhost', '127.0.0.1', 'taski-fromslavka.hopto.org'
 ]
 
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
